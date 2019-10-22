@@ -1,0 +1,22 @@
+{
+  "name": "common-api",
+  "version": "1.0.0",
+  "description": "实际业务中必须用到的api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vnues/common-api.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "vnues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vnues/common-api/issues"
+  },
+  "homepage": "https://github.com/vnues/common-api#readme"
+}
