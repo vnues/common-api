@@ -1,4 +1,4 @@
-# common-api
+# common-fronted-api
 
 > 业务开发中，我们经常会使用一些公共的方法，何不抽离出来依此提高开发效率
 

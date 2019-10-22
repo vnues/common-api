@@ -1,5 +1,5 @@
 {
-  "name": "common-api",
+  "name": "common-fronted-api",
   "version": "1.0.0",
   "description": "实际业务中必须用到的api",
   "main": "index.js",
