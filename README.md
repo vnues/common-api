@@ -40,3 +40,18 @@ const getQueryValue = () => {
 }
 
 ```
+
+
+##  isValidObject判断存在一个问题 很多时候我们还要增加一个判断条件
+
+那是因为我们初始化了这个对象 所以肯定不为空,所以使用这个方法判断也没有任何意义，在ts检测中  已经弥补了这一点  所以单单用id来判断就行
+不然ts怎么叫静态类型
+
+```javascript
+target_assistant: {
+        name: '',
+        assistant_id: '',
+        term_id: ''
+      }
+
+```
